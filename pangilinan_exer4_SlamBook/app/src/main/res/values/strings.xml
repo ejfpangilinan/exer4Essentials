@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pangilinan_exer4_SlamBook</string>
+    <string name="hello_text">Hello!</string>
+    <string name="name_title">Name</string>
+    <string name="nickname_title">Nickname</string>
+    <string name="age_title">Age</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_nickname">Enter Nickname</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="birthday_title">What is your birthday?</string>
+    <string name="enter_birthday">Enter birthday</string>
+</resources>
